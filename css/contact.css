@@ -1,0 +1,112 @@
+#content{
+	
+	height:1100px;
+	color:#3d52a3;
+	font-size:25px;
+}
+
+#orLine{
+	
+	margin-top:30px;
+	margin-bottom:60px;
+	
+}	
+input[type=text] {
+	
+	padding: 4px 5px;
+	border-radius: 6px;
+	border: 1px solid grey;
+	
+}
+.btn {
+	
+	width: 180px;
+	height: 40px;
+	background-color: #3d52a3;
+	border: 0px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+			
+}
+
+.btn:hover {
+
+    background-color: #92a5d5;
+    color: #3d52a3;
+	box-shadow: 0 0 20px white;
+   	
+}
+#or{
+	
+	float:left;
+	margin-top:5px;
+	width:10px;
+	margin-left:10px;
+	margin-right:25px;
+	color:#92a5d5;
+}
+
+#lLine{
+	width:470px;
+	
+	float:left;
+	text-align:right;
+}
+
+#rLine{
+	
+	width:470px;
+	float:left;
+}
+
+#form{
+	
+	text-align:center;
+	
+}
+
+#entr{
+	margin-left:-20px;
+	
+}
+
+#theText{
+	
+	text-align:center;
+	margin-top:70px;
+	
+}
+
+#every{
+	
+	margin-top:50px;
+	font-size:21px;
+	font-style:italic;
+	
+}
+
+#need{
+	
+	font-size:30px;
+	font-weight:bold;
+	
+}
+
+#get{
+	
+	margin-top:70px;
+	
+}
+
+#num{
+	
+	margin-top:50px;
+}
+
+#underText{
+	
+	margin-top:30px;
+}
+
+#email{}

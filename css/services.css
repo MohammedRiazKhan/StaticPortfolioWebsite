@@ -1,0 +1,186 @@
+#content{
+	
+	height:auto;
+	width:990px;
+	color:#3d52a3;
+	font-size:20px;
+	
+}
+
+#heading{
+	
+	height:150px;
+	text-align:center;
+	font-size:23px;
+	margin-top:70px;
+	
+	
+	
+}
+#content h1{
+	
+	margin-left:390px;
+	
+	margin-top:120px;
+	margin-bottom:80px;
+	
+	
+	
+}
+
+#webDev{
+	
+	width:990px;
+	height:200px;
+	
+	margin-top:20px;
+	margin-left:80px;
+	
+}
+
+#wDevImg{
+	width:150px;
+	height:150px;
+	margin-right:50px;
+	float:left;
+	
+}
+
+#wDv{
+	
+	width:200px;
+	height:40px;
+	font-size:23px;
+	color:#92a5d5;
+	float:left;
+	margin-left:30px;
+	
+}
+
+#web{
+	
+	height:100px;
+	width:600px;
+	
+	float:left;
+	margin-left:-3px;
+	margin-left:30px;
+}
+
+
+#des{
+	
+	width:990px;
+	height:200px;
+	
+	margin-top:20px;
+	margin-left:80px;
+	
+}
+
+#desig{
+	
+	width:150px;
+	height:150px;
+	margin-right:50px;
+	float:left;
+}
+
+#designText{
+	
+	width:200px;
+	height:40px;
+	font-size:23px;
+	color:#92a5d5;
+	float:left;
+	margin-left:30px;
+	
+}
+
+#desi{
+	
+	height:100px;
+	width:600px;
+	
+	float:left;
+	margin-left:-3px;
+	margin-left:30px;
+}
+
+
+#print{
+	
+	width:990px;
+	height:200px;
+	
+	margin-top:20px;
+	margin-left:80px;
+	
+}
+
+#prin{
+	
+	width:150px;
+	height:150px;
+	font-size:23px;
+	color:#92a5d5;
+	float:left;
+	margin-right:50px;
+}
+
+#pri{
+	
+	width:200px;
+	height:40px;
+	font-size:23px;
+	color:#92a5d5;
+	float:left;
+	margin-left:30px;
+}
+
+#printy{
+	
+	height:100px;
+	width:600px;
+	
+	float:left;
+	margin-left:-3px;
+	margin-left:30px;
+}
+
+#mobApp{
+	
+	width:990px;
+	height:200px;
+	
+	margin-top:20px;
+	margin-left:80px;
+	
+}
+
+#mob{
+	
+	width:150px;
+	height:150px;
+	margin-right:50px;
+	float:left;
+}
+
+#app{
+	
+	width:240px;
+	height:40px;
+	font-size:23px;
+	color:#92a5d5;
+	float:left;
+	margin-left:30px;
+}
+
+#mobi{
+	height:100px;
+	width:600px;
+	
+	float:left;
+	margin-left:-3px;
+	margin-left:30px;
+}

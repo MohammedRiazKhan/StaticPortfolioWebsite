@@ -1,0 +1,223 @@
+body{
+	
+	background-color:#92a5d5;
+	margin:0;
+	
+}
+
+#container{
+	margin-left:auto;
+	margin-right:auto;
+	width:990px;
+	height:100%;
+	font-family:Nueva Std;
+	font-size:16px;
+	background-color:white;
+	
+	
+}
+
+#line{
+	
+	width:990px;
+	height:3px;
+	background-color:#92a5d5;
+	
+	margin-top:15px;
+}
+
+#content{
+	
+	height:600px;
+	width:990px;
+	
+}
+
+#header{
+	height:100px;
+	width:100%;
+}
+
+#logo{
+	height:120px;
+	width:300px;
+	float:left;
+}
+
+#nav{
+	height:55px;
+	width:433px;
+	background-color:#3d52a3;
+	float:right;
+	margin-top:25px;
+	font-size:23px;
+}
+
+#nav ul{
+	
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	
+	
+}
+
+#nav li{
+	
+	float:left;
+	
+}
+
+#nav li a{
+	
+	display:block;
+	padding:13.5px;
+	text-align:right;
+	text-decoration:none;
+	color:white;
+
+	
+	
+}
+
+a.headlinks:hover {
+	
+    background-color: #92a5d5;
+	color: white;
+	
+}
+
+a.headlinks:hover:not(.active) {
+	
+	color: white;
+	
+}
+
+.active {
+	
+	background-color:#92a5d5;
+	color: #3d52a3;
+	
+}
+
+.ftactive {
+	
+	background-color: #22aa55;
+	color: white;
+	padding: 5px 10px;
+	border-radius: 8px;
+	
+}
+
+#navBar a{
+	list-style-type:none;
+	text-decoration:none;
+}
+
+
+#logoNoType{
+	width:110px;
+	height:110px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+}
+
+#heroImage{
+	
+	width:990px;
+	height:400px;
+	margin-top:60px;
+	opacity:0.8;
+	
+}
+
+#belowHeroImg{
+	
+	margin-top:-400px;
+	text-align:center;
+	color:white;
+	font-size:23px;
+	
+	
+}
+
+#whatIDo{
+	width:700px;
+	height:250px;
+	
+	margin-top:50px;
+	margin-left:auto;
+	margin-right:auto;
+	color:#3d52a3;
+}
+
+#whatIDo h3{
+	font-size:20px;
+
+}
+
+#wIDo{
+	
+	margin-left:260px;
+	margin-top:70px;
+
+}
+
+#web{
+	float:left;
+	
+	height:260px;
+	width:240px;
+	margin-left:50px;
+	margin-top:30px;
+	
+}
+
+#fLogo{
+	
+	height:120px;
+	width:120px;
+	margin-bottom:30px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+}
+
+#fB{
+	
+	height:48px;
+	width:48px;
+	float:left;
+	margin-left:380px;
+}
+
+#twit{
+	
+	height:48px;
+	width:48px;
+	float:left;
+	margin-left:135px;
+	
+}
+
+#webLogo, #softLogo{
+	margin-left:30px;
+}
+
+#software{
+	float:left;
+	height:260px;
+	width:240px;
+	margin-left:150px;
+	margin-top:30px;
+	
+}
+
+#footer{
+	width:990px;
+	height:150px;
+	background-color:#3d52a3;
+	margin-top:70px;
+}
